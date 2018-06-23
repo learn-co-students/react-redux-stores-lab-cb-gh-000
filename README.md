@@ -1,4 +1,4 @@
-# (Candy) Store Lab
+####S# (Candy) Store Lab
 
 ![simpsons-candy](https://media.giphy.com/media/xT5LMwcxObBBA31D8c/giphy.gif)
 ## Objectives
