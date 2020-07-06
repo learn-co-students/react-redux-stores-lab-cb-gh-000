@@ -7,7 +7,7 @@
 
 ## Overview
 
-Good news - you're opening a candy store! First, we just need to build an app to manage our inventory.
+Good news - h you're opening a candy store! First, we just need to build an app to manage our inventory.
 
 For now, we'll want to create two different stores - one to keep track of all of the types of candy we sell, and one to keep track of the count of the sales that we've had (Later on, we'll learn how we can manage multiple pieces of state in one store).
 
